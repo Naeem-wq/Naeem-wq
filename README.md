@@ -1,7 +1,7 @@
 Hi 👋 My name is Naeem Witbooi
 ==============================
 
-Aspiring Full-stack web developer
+Currently studying to become a Full-stack web developer
 ---------------------------------
 
 * 🌍  I'm based in Cape Town
