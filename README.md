@@ -1,12 +1,12 @@
 Hi 👋 My name is Naeem Witbooi
 ==============================
 
-Currently studying to become a Full-stack web developer
+I'm a Full-stack web developer
 ---------------------------------
 
 * 🌍  I'm based in Cape Town.
-* 💻  Up uptil now, I've done the following: HTML, CSS, JavaScript and Vue.js.
-* 🧠  I'm currently learning PHP and MySql. 
+* 💻  Up uptil now, I've done the following: HTML, CSS, JavaScript, Vue.js, PHP and MySql.
+* 🧠  I'm currently perfecting my React.js
 * 🤝  I'm open to collaborating on Interesting and fun challenges as I'm always up for learning new skills.
 
 ### Skills
